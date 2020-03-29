@@ -15,3 +15,7 @@ i=0
 while i<5:
     print(i)
     i+=1
+
+def Hello(a,b):
+    return a+b
+print(Hello('Hello','World'))
