@@ -3,3 +3,6 @@ print(my_str)
 
 new_str=my_str*3
 print(new_str)
+
+for i in range(3):
+    print('Hi')
