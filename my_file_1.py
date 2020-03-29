@@ -23,4 +23,4 @@ print(Hello('Hello','World'))
 
 def Hel():
     print('Hello dear friend!')
->>>>>>> feature/new_1
+
